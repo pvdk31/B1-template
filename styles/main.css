@@ -180,8 +180,8 @@ button{
   flex-direction: row;
 }
 .emphasize{
+  margin: 0 auto;
   padding: 1em;
-  
   box-shadow: 0px 0px 5px 0px #27AE60;
 
 }
