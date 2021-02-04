@@ -168,7 +168,10 @@ button{
 .sidy-by-side{
   
 }
-
+.row{
+  display: flex;
+  flex-direction: row;
+}
 .description{
   flex: 1;
 }
