@@ -164,13 +164,17 @@ button{
 
 .payment-option{
   border-left: #27AE60;
-  box-shadow: 5px 10px;
   height: 64px;
+  padding-left: 25%;
   
+}
+.Payment{
+  padding-right: 50px;
 }
 
 .sidy-by-side{
-  
+  display: flex;
+  justify-content: space-between;
 }
 .row{
   display: flex;
